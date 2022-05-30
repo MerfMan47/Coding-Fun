@@ -1,0 +1,1 @@
+Second day on this kyu and I succeeded. Submitted before I could clean it up though, eh, not pretty but it works.
