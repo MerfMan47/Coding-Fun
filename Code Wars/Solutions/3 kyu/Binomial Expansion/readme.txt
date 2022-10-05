@@ -1,5 +1,5 @@
 ===============================Notes===============================
-This problem was done over the course of two day. The first day
+This problem was done over the course of two days. The first day
 was pulling the usable variables out of the initial string and
 generating Pascal's trianglw to use in the calculations in the
 form of an array. The second day was settingup the calculations
