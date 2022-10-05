@@ -7,6 +7,9 @@ and removing extraneous characters like '0' or '^1'.
 This was my first 3 kyu and I found it much simpler then even some
 5 kyu problems I've done. The math was the easy part, the most
 difficult was cleaning up the solution by removing characters.
+I'm quite proud of this solution, it's one of the few that didn't
+heavily use Regexp to solve it and it's also the only one I can 
+find that used Pascal's triangle.
 ===============================Notes===============================
 The purpose of this kata is to write a program that can do some algebra.
 
