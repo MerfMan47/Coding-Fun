@@ -2,7 +2,9 @@
 Simple kyu to learn about if functions.
 I learned that ternary operators can only
 assign values and cannot call functions
-or return values.
+or return values. 
+Update: That's wrong. Ternary operators
+can be used to call functions.
 ==================Notes==================
 Create a function called _if which takes 3 arguments: a value bool and 2 functions (which do not take any parameters): func1 and func2
 
